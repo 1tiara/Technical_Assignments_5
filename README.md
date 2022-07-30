@@ -5,4 +5,6 @@
 
 
 3.  Sebuah script utama main.py yang terdiri dari sebuah logic sederhana yang menjawab sebuah use case sederhana ([README.md](https://github.com/1tiara/TUGAS_GITHUB/files/9225857/README.md))
+
+4.    Optional
       
